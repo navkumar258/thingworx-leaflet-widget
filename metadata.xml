@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<Entities>
+
+    <ExtensionPackages>
+
+        <ExtensionPackage dependsOn="" description="Leaflet Widget for display maps" minimumThingWorxVersion="7.4.8" name="Leaflet_WidgetExtension" packageVersion="1.0.0" vendor="">
+
+        </ExtensionPackage>
+
+    </ExtensionPackages>
+
+    <Widgets>
+
+        <Widget description="Leaflet Coordinate Reference System Map for Viewing Images" name="Leaflet">
+
+            <UIResources>
+
+                <FileResource description="Leaflet CRS Map Widget IDE" file="Leaflet.ide.js" isDevelopment="true" isRuntime="false" type="JS"/>
+
+                <FileResource description="Leaflet CRS Map Widget IDE CSS File" file="Leaflet.ide.css" isDevelopment="true" isRuntime="false" type="CSS"/>
+
+                <FileResource description="Leaflet CRS Map Widget Runtime" file="Leaflet.runtime.js" isDevelopment="false" isRuntime="true" type="JS"/>
+
+                <FileResource description="Leaflet CRS Map Widget Runtime CSS File" file="Leaflet.runtime.css" isDevelopment="false" isRuntime="true" type="CSS"/>
+
+                <FileResource description="Leaflet JavaScript Library" file="lib/leaflet-1.3.4/leaflets.js" isDevelopment="false" isRuntime="true" type="JS"/>
+
+                <FileResource description="Leaflet Style Sheet" file="lib/leaflet-1.3.4/leaflets.css" isDevelopment="false" isRuntime="true" type="CSS"/>
+
+                <FileResource description="Hashtable JavaScript Library" file="lib/utils/hashtable.js" isDevelopment="false" isRuntime="true" type="JS"/>
+
+            </UIResources>
+
+        </Widget>
+
+    </Widgets>
+
+</Entities>
