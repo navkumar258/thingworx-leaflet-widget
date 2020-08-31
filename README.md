@@ -9,7 +9,7 @@ for mobile-friendly interactive maps.
   4. Debug mode
   
 ## Usage:
-  1. Download as .zip and import as extension in thingowrx composer
+  1. Download Leaflet_v1.0.0.zip and import as extension in thingworx composer
   2. In mashup builder widgets tab, leaflet widget will be available
-  3. Drag n drop onto the mashup, bind data and image properties. enjoy!
+  3. Drag n drop onto the mashup, bind data and image properties. Enjoy!
   
